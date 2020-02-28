@@ -9,7 +9,7 @@ Construction and usage is provided in [Link](https://www.biorxiv.org/content/10.
 
 In the "Design" folder we provide the gerber files of the device's Electrode Interface Board (EIB), which comes in two versions: the first with independent GND and REF ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/GND%20%26%20REF)) and the second with shorted GND and REF ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/GND%20%26%20REF%20shorted)). 
 
-We also provide the .STL files of the tetrode guide support in two versions:a single track with a width of 30 mm ([link](https://github.com/franciscamachado/Tetrode-Device/blob/master/Designs/Tetrode%20Guide%20Support/30mm_Track.STL)) and with a width 60 mm ([link](https://github.com/franciscamachado/Tetrode-Device/blob/master/Designs/Tetrode%20Guide%20Support/60mm_Track.STL)). These designs are easly altered and adjusted to the size and number of tetrodes to be used.
+We also provide the .STL files of the tetrode guide support in two versions:a single track with a width of 30 mm ([link](https://github.com/franciscamachado/Tetrode-Device/blob/master/Designs/Tetrode%20Guide/30mmTrack.stl)) and with a width 60 mm ([link](https://github.com/franciscamachado/Tetrode-Device/blob/master/Designs/Tetrode%20Guide/60mmTrack.stl)). These designs are easly altered and adjusted to the size and number of tetrodes to be used.
 
 # Citing this Work
 
