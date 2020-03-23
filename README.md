@@ -9,8 +9,8 @@ Construction and usage is provided in [Link](https://www.biorxiv.org/content/10.
 
 Assembly Parts:
 (1) - PCB.
-(2) - A79024-001 Omnetics connector [Link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors). 
-(3) - Small gold pins [Link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors). 
+(2) - A79024-001 Omnetics connector ([link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors)). 
+(3) - Small gold pins ([link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors)). 
 (4) - Guide track.
 (5) - Tetrode wire (determined by the aplicattion in mind).
 
