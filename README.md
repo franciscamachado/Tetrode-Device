@@ -12,7 +12,7 @@ Assembly Parts:
 (2) - A79024-001 Omnetics connector [Link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors). 
 (3) - Small gold pins [Link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors). 
 (4) - Guide track.
-(5) - Tetrode wire (determined by the aplicattion in mind)
+(5) - Tetrode wire (determined by the aplicattion in mind).
 
 In the "Design" folder we provide the gerber files of the device's Electrode Interface Board (EIB), which comes in two versions: the first with independent GND and REF ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/GND%20%26%20REF)) and the second with shorted GND and REF ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/GND%20%26%20REF%20shorted)). 
 
