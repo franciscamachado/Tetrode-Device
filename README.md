@@ -7,6 +7,13 @@ We have developed a simple and affordable tetrode-based device that allows inter
 # Building Instructions
 Construction and usage is provided in [Link](https://www.biorxiv.org/content/10.1101/2020.02.11.940809v1). 
 
+Assembly Parts:
+(1) - PCB.
+(2) - A79024-001 Omnetics connector [Link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors). 
+(3) - Small gold pins [Link](https://www.omnetics.com/products/neuro-connectors/nano-strip-connectors). 
+(4) - Guide track.
+(5) - Tetrode wire (determined by the aplicattion in mind)
+
 In the "Design" folder we provide the gerber files of the device's Electrode Interface Board (EIB), which comes in two versions: the first with independent GND and REF ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/GND%20%26%20REF)) and the second with shorted GND and REF ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/GND%20%26%20REF%20shorted)). 
 
 We also provide the .STL files of the tetrode guide in two versions:a single track with a width of 30 mm ([link](https://github.com/franciscamachado/Tetrode-Device/blob/master/Designs/Tetrode%20Guide/30mmTrack.stl)) and with a width 60 mm ([link](https://github.com/franciscamachado/Tetrode-Device/blob/master/Designs/Tetrode%20Guide/60mmTrack.stl)). These designs are easly altered and adjusted to the size and number of tetrodes to be used.
