@@ -23,7 +23,7 @@ Construction and usage is provided in [Link](https://www.biorxiv.org/content/10.
 
 When using this device, please cite the paper:
 
-Francisca Machado, Nuno Sousa, Patricia Monteiro, Luis Jacinto (2020). A versatile and modular tetrode-based device for single-unit recordings in rodent ex vivo and in vivo acute preparations. [Link](https://www.biorxiv.org/content/10.1101/2020.02.11.940809v1)
+Francisca Machado, Nuno Sousa, Patricia Monteiro, Luis Jacinto (2020). A versatile and modular tetrode-based device for single-unit recordings in rodent ex vivo and in vivo acute preparations. [Link1](https://www.biorxiv.org/content/10.1101/2020.02.11.940809v1) [Link2](https://www.sciencedirect.com/science/article/pii/S0165027020301783)
 
 ## License
 
