@@ -6,6 +6,7 @@ We have developed a simple and affordable tetrode-based device that allows inter
 
 ## Building Instructions
 Construction and usage are described in the [paper](https://www.sciencedirect.com/science/article/pii/S0165027020301783).
+
 **Assembly Parts:**
 
 **(1) - Electrode Interface Board (EIB).** The EIB's gerber files are provided in the "Design" folder for three different headstages: (1) RHD32 (Intan/Open Ephys) ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/OpenEphys)), (2) HS-36-LED (NeuraLynx) ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/Neuralynx)) and (3) HST/32D Plexon ([link](https://github.com/franciscamachado/Tetrode-Device/tree/master/Designs/EIB/Eagle/Plexon)). Each EIB is provided intwo versions: the first with independent GND and REF and the second with shorted GND and REF. The EIB should be manufactured with electroless nickel immersion gold (ENIG) surface finishing.
