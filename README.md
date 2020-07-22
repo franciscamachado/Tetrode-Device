@@ -5,7 +5,7 @@ We have developed a simple and affordable tetrode-based device that allows inter
 ![All](https://user-images.githubusercontent.com/61021093/78145997-7bef8f80-7429-11ea-9744-76e705ccdfa7.png)
 
 ## Building Instructions
-Construction and usage is provided in [Link](https://www.biorxiv.org/content/10.1101/2020.02.11.940809v1). 
+Construction and usage are described in the [paper](https://www.biorxiv.org/content/10.1101/2020.02.11.940809v1). 
 
 **Assembly Parts:**
 
@@ -23,7 +23,7 @@ Construction and usage is provided in [Link](https://www.biorxiv.org/content/10.
 
 When using this device, please cite the paper:
 
-Francisca Machado, Nuno Sousa, Patricia Monteiro, Luis Jacinto (2020). A versatile and modular tetrode-based device for single-unit recordings in rodent ex vivo and in vivo acute preparations. [Link1](https://www.biorxiv.org/content/10.1101/2020.02.11.940809v1) [Link2](https://www.sciencedirect.com/science/article/pii/S0165027020301783)
+Francisca Machado, Nuno Sousa, Patricia Monteiro, Luis Jacinto (2020). A versatile and modular tetrode-based device for single-unit recordings in rodent ex vivo and in vivo acute preparations. J Neurosci Methods, 341:108755. [Link](https://www.sciencedirect.com/science/article/pii/S0165027020301783)
 
 ## License
 
